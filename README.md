@@ -21,4 +21,4 @@ lowercase equivalent.
 ## Dependencies
 - POSIX compliant OS.
 - C compiler (with C99 support).
-- CMake.
+- (GNU) make.
